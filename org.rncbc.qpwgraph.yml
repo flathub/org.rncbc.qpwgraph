@@ -18,5 +18,5 @@ modules:
       - "-DCONFIG_WAYLAND=ON"
     sources:
       - type: archive
-        url: https://gitlab.freedesktop.org/rncbc/qpwgraph/-/archive/v0.3.1/qpwgraph-v0.3.1.tar.bz2
-        sha256: 522800469a0560014668b4f867bae865286b0880a5e855cce81018e085eb321e
+        url: https://github.com/rncbc/qpwgraph/archive/refs/tags/v0.3.2.tar.gz
+        sha256: 67c5a68d3118bb705d9cab4c6265bcd3f3dded9df977f390f37b8d1b407f03bf
