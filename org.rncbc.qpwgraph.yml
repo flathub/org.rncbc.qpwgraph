@@ -15,5 +15,5 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://gitlab.freedesktop.org/rncbc/qpwgraph/-/archive/v0.4.1/qpwgraph-v0.4.1.tar.bz2
-        sha256: 0c0b124c0294939920c6e73296dade56909df4ccb52c15388364d266aa564839
+        url: https://gitlab.freedesktop.org/rncbc/qpwgraph/-/archive/v0.4.2/qpwgraph-v0.4.2.tar.bz2
+        sha256: 4e4fa579b1a9b75ac8f72d1460de6c525b4a85690d4fb33ac04712ba2ced662b
