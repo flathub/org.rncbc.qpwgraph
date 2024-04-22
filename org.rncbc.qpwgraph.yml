@@ -1,6 +1,6 @@
 app-id: org.rncbc.qpwgraph
 runtime: org.kde.Platform
-runtime-version: '6.6'
+runtime-version: '6.7'
 sdk: org.kde.Sdk
 command: qpwgraph
 finish-args:
@@ -15,5 +15,5 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://gitlab.freedesktop.org/rncbc/qpwgraph/-/archive/v0.6.3/qpwgraph-v0.6.3.tar.bz2
-        sha256: d69052c77303f56ae326c2f19924efc3fde6e06ef997e937be42b29bc404398f
+        url: https://gitlab.freedesktop.org/rncbc/qpwgraph/-/archive/v0.7.0/qpwgraph-v0.7.0.tar.bz2
+        sha256: 1988716b31398ab87b11298b2d17268b8e88af00abf4c30ba7ae56844987efbb
